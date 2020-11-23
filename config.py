@@ -1,5 +1,5 @@
 settings = {
-    'token': 'NzQyMDg5OTYyMzA4MTA4MzI4.XzBDIg.SGdGjZ-jdrq_m9z4vCoTdDKvsqU',
+    'token': 'NzQyMDg5OTYyMzA4MTA4MzI4.XzBDIg.INwlz8DGmzt9o28NHKFcJC0jszk',
     'bot': 'Incognito',
     'id': 742089962308108328,
     'prefix': '>',
